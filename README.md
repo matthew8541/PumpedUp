@@ -1,7 +1,4 @@
 # PumpedUp
-## Introduction
-PumpedUp is a workout-buddies mobile app built by React Native/Expo. Users are able to set up the pairing preference and the profile page so as to match the ideal workout partners and vice versa. An pairing algorithm was developed to optimized the matching according to a data-driven user survey.
-
 ## 💻 Install
 
 First install Nodejs and npm
@@ -30,4 +27,3 @@ or
 ```sh
 expo start
 ```
-Noting that firebaseConfig under Firebase folder was removed. It requires a set of firebase project apiKey and info to work.
